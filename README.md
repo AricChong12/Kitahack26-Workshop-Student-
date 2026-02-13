@@ -6,3 +6,6 @@ https://kitahack26-fb4b9.web.app/
 
 Tutorial Workshop:
 https://github.com/vrijraj/firebase-web-ai
+
+Skills
+Firebase
