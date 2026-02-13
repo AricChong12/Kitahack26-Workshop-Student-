@@ -8,4 +8,4 @@ Tutorial Workshop:
 https://github.com/vrijraj/firebase-web-ai
 
 Skills
-Firebase
+1. Firebase
